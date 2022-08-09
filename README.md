@@ -1,0 +1,2 @@
+# PREDICCIÓN DE RESULTADOS EN LAS PRUEBAS SABER PRO A PARTIR DE LAS PRUEBAS SABER 11
+El objetivo de este estudio es contribuir con el análisis comprensivo de características que influyen en los resultados de los desempeños que obtienen los estudiantes colombianos en las pruebas de Estado, en este caso específicamente Saber Pro. De esta manera se busca no solamente contribuir a la mejora y evaluación de la educación, sino a la proyección social y de desarrollo general del país
